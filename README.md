@@ -77,7 +77,7 @@ Este proyecto implementa un sistema de huerto automatizado que utiliza 3 Arduino
 
 ```bash
 # Descargar y ejecutar script de configuración
-wget https://raw.githubusercontent.com/tuusuario/huerto-automatizado/main/Script_inicial.sh
+wget https://msanchis/Projecte_Hort_0.1/servidor/Script_inicial.sh
 chmod +x Script_inicial.sh
 sudo ./Script_inicial.sh
 ```
